@@ -1,0 +1,25 @@
+{
+  "name": "node-red-contrib-nadhem-iot",
+  "node-red": {
+    "nodes": {
+        "lower-case": "node.js"
+    }
+},
+  "version": "1.0.0",
+  "description": "My custom Node-RED node for IoT applications",
+  "homepage": "https://github.com/nadhemzini/node-red-contrib-nadhem-iot#readme",
+  "bugs": {
+    "url": "https://github.com/nadhemzini/node-red-contrib-nadhem-iot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadhemzini/node-red-contrib-nadhem-iot.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
